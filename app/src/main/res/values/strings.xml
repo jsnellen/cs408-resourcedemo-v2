@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resource Demo Version 2</string>
+    <string name="labelText">Tap to Cycle</string>
+    <string name="buttonText">Six-Sided Die</string>
+</resources>
